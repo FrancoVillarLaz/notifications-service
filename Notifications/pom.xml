@@ -11,7 +11,7 @@
 		<relativePath/>
 	</parent>
 
-	<groupId>franco</groupId>
+	<groupId>proyect3</groupId>
 	<artifactId>notifications</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<name>notifications</name>
