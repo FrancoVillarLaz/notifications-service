@@ -7,8 +7,8 @@ import proyect3.notifications.exception.NotificationException;
 import proyect3.notifications.persistence.entities.Notification;
 import proyect3.notifications.persistence.enums.Canal;
 import proyect3.notifications.persistence.repositories.NotificationRepository;
-import proyect3.notifications.strategy.NotificationStrategy;
-import proyect3.notifications.strategy.NotificationStrategyManager;
+import proyect3.notifications.notifier.strategy.NotificationStrategy;
+import proyect3.notifications.notifier.strategy.NotificationStrategyManager;
 
 import java.util.HashMap;
 import java.util.List;

@@ -1,4 +1,4 @@
-package proyect3.notifications.strategy;
+package proyect3.notifications.notifier.strategy;
 
 import proyect3.notifications.persistence.entities.Notification;
 import proyect3.notifications.persistence.enums.Canal;

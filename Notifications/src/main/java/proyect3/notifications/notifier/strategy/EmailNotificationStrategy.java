@@ -1,4 +1,4 @@
-package proyect3.notifications.strategy;
+package proyect3.notifications.notifier.strategy;
 
 import jakarta.mail.MessagingException;
 import jakarta.mail.internet.MimeMessage;
